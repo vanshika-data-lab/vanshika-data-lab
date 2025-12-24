@@ -3,6 +3,10 @@
 
 ### 📊 Data Science & Machine Learning Enthusiast | Artificial Intellogence | Statistical Modelling ###
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vanshika-data-lab&label=Profile%20Views&color=blue&style=flat" />
+</p>
+
 
 I'm **M.sc Data Science** student at the **Chandigarh University**, and hold a **B.Sc. (Hons.) Statistics** from **Delhi University**. My acdemic background has given me a strong foundation in statistical reasoning, data analysis, and computational methods.
 
